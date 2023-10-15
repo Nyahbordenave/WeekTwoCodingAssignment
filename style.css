@@ -1,0 +1,59 @@
+header { 
+    text-align: center;
+    text-shadow: white 1px 1px;
+} 
+
+body {
+    text-align: center; 
+    background-color: rgba(220, 222, 227, 0.456);
+    
+  }
+
+  .image-1 {
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    border-color: black
+  } 
+
+  
+  .image-2 {
+    border-style: solid;
+    border-color: rgb(180, 12, 12);
+    border-radius: 6px;
+  }
+
+  .image-3 {
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgba(26, 26, 118, 0.795);
+
+  }
+
+  .list {
+    text-align: center;
+    list-style: none;
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  .pages {
+    text-align: center;
+    
+  }
+
+  table {
+    width: 1400px;
+  }
+    th,td {
+        padding: 8px;
+        text-align: center;
+        border-bottom: 1px;
+        font-size: large;
+    }
+
+    .input {
+        width: 1500px;
+        margin-right: 1500px;
+    }
